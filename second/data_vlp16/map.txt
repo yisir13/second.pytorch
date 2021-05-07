@@ -1,0 +1,12 @@
+Pedestrian
+mAP_bev for IOU= 0.05 : 
+43.43725942116444
+Pedestrian
+mAP_bev for IOU= 0.10 : 
+43.43725942116444
+Pedestrian
+mAP_bev for IOU= 0.30 : 
+37.798924731182794
+Pedestrian
+mAP_bev for IOU= 0.50 : 
+11.851851851851853
